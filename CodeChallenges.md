@@ -4,4 +4,6 @@
 
 ## [PHP Code Challenges and Resources](https://drive.google.com/file/d/0B28qs3pVLuXSazQ5ZnlQNFhNa2c/view?usp=sharing)
 
+## [Ruby Code Challenges and Resources](https://drive.google.com/file/d/0B28qs3pVLuXSX1IwZkZRVTItU0E/view?usp=sharing)
+
 ## [JavaScript Code Challenges and Resources](https://drive.google.com/file/d/0B28qs3pVLuXSUGxoNWdHMDBhM28/view?usp=sharing)
