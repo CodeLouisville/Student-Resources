@@ -1,2 +1,2 @@
 # Student-Resources
-Since this is all documentation it has been [moved to the wiki side](../../wiki)
+Please go to the [wiki for all student resources](../../wiki)
